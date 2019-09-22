@@ -292,6 +292,13 @@
 			    <li data-placement="left" data-toggle="tooltip" title="A scummy host selling very sketchy WHMCS Licenses. Failing to deliver a product and ended up suspending the client's friend (who had nothing to do with this) upon getting a chargeback. They also offer free additional resources for raiding competitors' TrustPilot page. Avoid at all cost. ">
                             <a href="https://redrock.host">MCFreeHosting LTD</a>
                         </li>
+			
+			    </li>
+			    <li data-placement="left" data-toggle="tooltip" title="Owner offered discord hosting, used me for whmcs setup as he is too lazy, I never got anything in return, using broken old computers to host, blamed me for his wifi issues, tried making me pay for the hosting after giving it to me for free, gave me access to the computer where it was hosted and when I tried getting my files he then kicked me off, I told him im going to switch host and he then deleted my files and started calling me an ass and told me to never contact him.">
+                            <a href="https://marzmediahosting.com">MarzMediaHosting</a>
+                        </li>
+			
+			
 			    
                     </ul>
                     <p class="text-muted">We take no responsibility for the accuracy of these listings.</p>
