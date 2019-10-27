@@ -307,6 +307,10 @@
 			    <li data-placement="left" data-toggle="tooltip" title="RapidHost is a host that used a contabo vps from NickE and sold a user 15GB ram and when they lost their nodes they refused give the customer half their money back and started deleting their dms with the customer to try stop him getting proof he was scammed">
                             <a href="https://panel.rapidmc.xyz">RapidHost</a>
 			</li>
+			</li>
+			    <li data-placement="left" data-toggle="tooltip" title="Same management as FalixNodes & ReallyFast. No website, sells via Discord. And much more which can't be listed here.">
+                            <a href="#no-link">FabitHosting</a>
+			</li>
                     </ul>
                     <p class="text-muted">We take no responsibility for the accuracy of these listings.</p>
                 </div>
