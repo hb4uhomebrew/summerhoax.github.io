@@ -288,11 +288,9 @@
 			<li data-placement="left" data-toggle="tooltip" title="VapeHost has many issues such as downtime, ignoring customers & of course using bad security practices a data breach occured of all client data (Including Address's, Phone Numbers & Payment Info). VapeHost is one of the Lifetime Host's which advertise hosting for your lifetime, but as expected it's lifetime of the company. VapeHost got compromised NotFound ghosted the whole discord for days and still never made a public statement about the breach.">
                             <a href="https://vapehost.cc">VapeHost</a>
                         </li>
-			    </li>
 			    <li data-placement="left" data-toggle="tooltip" title="MCFreeHosting LTD sold a WHMCS key to a client & never delivered it. When the client asked for a refund he was denied, and when he charged back the clients friend's server (which had clients on it) was suspended. After that the owner MVP kept ignoring the friend's messages about getting unsuspended for an hour to pull clients. They sell cheap hetzner dedicated server's using SolusVM and are not sustainable (Owner has said he spends around 1k a month on a free host) and will likely shutdown soon enough. The owner leaves for todays without responding to messages. Reinstalls panel every few days for some reason. Overall an unprofessional and scummy host.">
                             <a href="https://redrock.host">MCFreeHosting LTD</a>
                         </li>
-			    </li>
 			    <li data-placement="left" data-toggle="tooltip" title="Selling to Discord Members via Discord, Faking Company ranks (CEO's COO etc) There aparent CEO is an 11 year old. They offer free hosting which is not sustainable. Owner used fraud & theft to get servers. Overall a sketchy and illegal host.">
                             <a href="#no-url">PlatinumNode</a>
                         </li>
