@@ -238,6 +238,12 @@
                         avoiding these hosts if possible.</p>
                     <hr>
                     <ul>
+                         <li data-placement="left" data-toggle="tooltip" title="Clown host Neesp rebranded. Using stolen website from RamShard.com & claiming they were just 'borrowing', leaking software and crying it is only for their 'community', and a buch of other sins. Avoid at all cost".>
+                            <a href="https://purecpu.com">PureCPU.com</a>
+                        </li>
+                         <li data-placement="left" data-toggle="tooltip" title="A massive scum host ran by former FalixNodes (another shit host) staff. Using nulled themes, lying about it, claiming that it was custom then openly saying they simply don't care if the cracked themes has massive exploits. These fuckers also used lifetime free servers to attract people to their little Discord then deleted the free node a week later. ">
+                            <a href="https://panel.easly.host">Easly.host</a>
+                        </li>	
                          <li data-placement="left" data-toggle="tooltip" title="A clown host ran by Bryan Kea, the hobo who obtains his free servers using fake bank account numbers. Use this amazing free host if you want to give this underage kid who engaged in identity theft your personal information.">
                             <a href="https://discord.gg/geYdah">PlatinumNodes</a>
                         </li>				 
@@ -294,8 +300,15 @@
 			    <li data-placement="left" data-toggle="tooltip" title="Selling to Discord Members via Discord, Faking Company ranks (CEO's COO etc) There aparent CEO is an 11 year old. They offer free hosting which is not sustainable. Owner used fraud & theft to get servers. Overall a sketchy and illegal host.">
                             <a href="#no-url">PlatinumNode</a>
                         </li>
-			
-			    
+                        <li data-placement="left" data-toggle="tooltip" title="Terrible uptime & lack of transparency with customers. A lot of false advertising, such as Voxility DDOS Protection on all services.">
+                            <a href="https://dashflo.net/">Dashflo.net</a> (formerly <a href="https://deploys.io">Deploys.io</a>)
+                        </li>			    
+			    <li data-placement="left" data-toggle="tooltip" title="ReallyFast "LLC" is a hosting company that is very suspicious and exit scammed, they offered lifetime hosting but both owners "Resigned" to a new owner who's account had been made immediately the day it was transferred. This host is a scam.">
+                            <a href="https://reallyfast.host">ReallyFast "LLC"</a>
+			</li>
+			    <li data-placement="left" data-toggle="tooltip" title="RapidHost is a host that used a contabo vps from NickE and sold a user 15GB ram and when they lost their nodes they refused give the customer half their money back and started deleting their dms with the customer to try stop him getting proof he was scammed">
+                            <a href="https://panel.rapidmc.xyz">RapidHost</a>
+			</li>
                     </ul>
                     <p class="text-muted">We take no responsibility for the accuracy of these listings.</p>
                 </div>
