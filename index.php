@@ -238,6 +238,12 @@
                         avoiding these hosts if possible.</p>
                     <hr>
                     <ul>
+                         <li data-placement="left" data-toggle="tooltip" title="Clown host Neesp rebranded. Using stolen website from RamShard.com & claiming they were just 'borrowing', leaking software and crying it is only for their 'community', and a buch of other sins. Avoid at all cost".>
+                            <a href="https://purecpu.com">PureCPU.com</a>
+                        </li>
+                         <li data-placement="left" data-toggle="tooltip" title="A massive scum host ran by former FalixNodes (another shit host) staff. Using nulled themes, lying about it, claiming that it was custom then openly saying they simply don't care if the cracked themes has massive exploits. These fuckers also used lifetime free servers to attract people to their little Discord then deleted the free node a week later. ">
+                            <a href="https://panel.easly.host">Easly.host</a>
+                        </li>	
                          <li data-placement="left" data-toggle="tooltip" title="A clown host ran by Bryan Kea, the hobo who obtains his free servers using fake bank account numbers. Use this amazing free host if you want to give this underage kid who engaged in identity theft your personal information.">
                             <a href="https://discord.gg/geYdah">PlatinumNodes</a>
                         </li>				 
@@ -288,18 +294,24 @@
 			<li data-placement="left" data-toggle="tooltip" title="VapeHost has many issues such as downtime, ignoring customers & of course using bad security practices a data breach occured of all client data (Including Address's, Phone Numbers & Payment Info). VapeHost is one of the Lifetime Host's which advertise hosting for your lifetime, but as expected it's lifetime of the company. VapeHost got compromised NotFound ghosted the whole discord for days and still never made a public statement about the breach.">
                             <a href="https://vapehost.cc">VapeHost</a>
                         </li>
-			    </li>
-			    <li data-placement="left" data-toggle="tooltip" title="A scummy host selling very sketchy WHMCS Licenses. Failing to deliver a product and ended up suspending the client's friend (who had nothing to do with this) upon getting a chargeback. They also offer free additional resources for raiding competitors' TrustPilot page. Avoid at all cost. ">
-                            <a href="https://redrock.host">MCFreeHosting LTD</a>
-                        </li>
-			
-			    </li>
 			    <li data-placement="left" data-toggle="tooltip" title="Owner offered discord hosting, used me for whmcs setup as he is too lazy, I never got anything in return, using broken old computers to host, blamed me for his wifi issues, tried making me pay for the hosting after giving it to me for free, gave me access to the computer where it was hosted and when I tried getting my files he then kicked me off, I told him im going to switch host and he then deleted my files and started calling me an ass and told me to never contact him.">
                             <a href="https://marzmediahosting.com">MarzMediaHosting</a>
                         </li>
-			
-			
-			    
+                        <li data-placement="left" data-toggle="tooltip" title="Terrible uptime & lack of transparency with customers. A lot of false advertising, such as Voxility DDOS Protection on all services.">
+                            <a href="https://dashflo.net/">Dashflo.net</a> (formerly <a href="https://deploys.io">Deploys.io</a>)
+                        </li>         
+			    <li data-placement="left" data-toggle="tooltip" title="MCFreeHosting LTD's owner, MVP, scammed a client from a WHMCS key. After charging back for the WHMCS key, the client lost all his accounts on his reseller account. They sell cheap Hetzner servers and have admitted that they might shutdown soon. One of the managers, IPvD said &quot;I hate ni**ers they deserve die&quot; and blamed it on autocorrect. Inside the Summerhoax discord, he also called everyone &quot;fag***s&quot; and was banned. In a ticket with one of the clients affected in a partnership closure, they called hosts &quot;gay&quot;. Very unprofessional host.">
+                            <a href="https://mcfh.ltd">MCFreeHosting LTD</a>
+                        </li>			    
+			    <li data-placement="left" data-toggle="tooltip" title="ReallyFast "LLC" is a hosting company that is very suspicious and exit scammed, they offered lifetime hosting but both owners "Resigned" to a new owner who's account had been made immediately the day it was transferred. This host is a scam.">
+                            <a href="https://reallyfast.host">ReallyFast "LLC"</a>
+			</li>
+			    <li data-placement="left" data-toggle="tooltip" title="RapidHost is a host that used a contabo vps from NickE and sold a user 15GB ram and when they lost their nodes they refused give the customer half their money back and started deleting their dms with the customer to try stop him getting proof he was scammed">
+                            <a href="https://panel.rapidmc.xyz">RapidHost</a>
+			</li>
+		        <li data-placement="left" data-toggle="tooltip" title="Using nulled WHMCS and doubled down on it saying he does not see a point in spending money on something he can get for free. Super shady Discord, selling stuffs like Spotify accounts to claiming that they have a $3000 DDOS Protection (which we highly doubt they have - they can't even spend $15 on a WHMCS license).">
+                            <a href="https://server642.com">Server642.com</a>
+                        </li>	
                     </ul>
                     <p class="text-muted">We take no responsibility for the accuracy of these listings.</p>
                 </div>
@@ -316,10 +328,7 @@
                         </li>
                         <li data-placement="left" data-toggle="tooltip" title="Very few are able to pull off what the owner of Venom Hosting, EDBTVPlays, while facing little to no consequences. The 16-year-old owner of Venom Hosting, also known as EdbtvPlays or Edward Brook, took many of his days spending ridiculous amounts of money on his mother's credit card. He created a host, played plenty of Unturned, and did god knows what else with his near-unlimited amount of cash. His mother? Blisfully unknowing she was losing thousands of dollars to her son's stupid decisions on the internet. At least, it didn't last for long. Like any self-respecting, dignified parent, Edward's mother filed a chargeback. Not just any chargeback, though - a $6,000 (Likely much higher) Chargeback. Countless people affected. Many losing thousands of dollars. Several hours of drama. It is *currently* unknown what happened to Edward. His social media presence has been since wiped. A lawyer representing an affected individual is supposedly filing a case against him and his family.">
                             <a href="https://web.archive.org/web/20180806132535/http://venom-hosting.com/">Venom Hosting (Archive.org)</a>
-                        </li>			    
-                        <li data-placement="left" data-toggle="tooltip" title="Using nulled WHMCS and doubled down on it saying he does not see a point in spending money on something he can get for free. Super shady Discord, selling stuffs like Spotify accounts to claiming that they have a $3000 DDOS Protection (which we highly doubt they have - they can't even spend $15 on a WHMCS license).">
-                            <a href="https://server642.com">Server642.com</a>
-                        </li>		
+                        </li>			    	
                         <li data-placement="left" data-toggle="tooltip" title="Ran by the famous lunatic. Makes a load of bold claims saying that they will rape the industry (yes, literally) when they don't even have a very basic proper host setup. They also hired haxxors to haxx criticism.">
                             <a href="https://enteron.world">Enteron.world</a>
                         </li>
@@ -340,7 +349,10 @@
                         </li>	
 			<li data-placement="left" data-toggle="tooltip" title="This host has had a ton of downtime that they've denied in the past. You have to contact support to just get your server rebooted. They recently closed their Discord and said that there was a &quot;network upgrade&quot; that would last an hour. However, it's been almost 5 days with no response. Their website and servers are completely offline. What a joke of a host!">
                             <a href="https://eportal.icxrealty.com">ICXRealty</a>
-                        </li>			    
+                        </li>
+			<li data-placement="left" data-toggle="tooltip" title="Ghosted all clients and continued to charge them after the billing panel, nodes, and site went down. Completely ignoring all questions by clients and only responds to chargeback requests. Was originally good, however once the Director of Operations left the team everything fell apart.">
+                            <a href="https://discord.gg/nTjmYS9">CloudEx Hosting</a>
+			</li>
                     </ul>
                     <p class="text-muted">Thanks to the wonders of technology, you can view previous versions of
                         these websites at
